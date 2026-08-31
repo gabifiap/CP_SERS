@@ -33,3 +33,19 @@ O notebook está dividido em células identificadas por títulos em Markdown par
 6. **Interpretação e análise técnica** contextualizada dos resultados.
 
 # Desafio Extra
+
+## Visão Geral do Projeto
+Este projeto realiza uma análise exploratória e descritiva do comportamento da demanda de carga elétrica na **Área SP (São Paulo)**, utilizando dados oficiais consumidos diretamente da API pública de Carga Verificada do **Operador Nacional do Sistema Elétrico (ONS)**.
+
+O objetivo é mapear o padrão de consumo, identificar os momentos de alta demanda (picos) e fornecer insumos para o planejamento e operação do Sistema Interligado Nacional (SIN).
+
+
+
+## Resumo Executivo dos Dados
+
+* **Fonte de Dados:** API Pública do ONS (`apicarga.ons.org.br`)
+* **Região Analisada:** SP — São Paulo
+* **Período de Análise:** 01/08/2025 a 07/08/2025
+* **Frequência das Medições:** A cada 30 minutos (336 registros totais)
+
+
