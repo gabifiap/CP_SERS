@@ -19,7 +19,7 @@ Os dados foram inicialmente processados no **Orange Data Mining** e exportados e
  3.  **Power Consumption of Tetouan City** | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Power+Consumption+of+Tetouan+City) | Consumo elétrico em três zonas de distribuição da cidade de Tétouan, Marrocos, e dados meteorológicos. |
  4.   **Solar Power Generation Data** | [Kaggle](https://www.kaggle.com/datasets/anikannal/solar-power-generation-data) | Dados de geração (CC e CA) e rendimento diário de inversores de uma usina fotovoltaica. |
  5.    **Wind & Solar Energy Production Dataset** | [Kaggle](https://www.kaggle.com/datasets) | Produção temporal comparativa entre energia eólica e energia solar. |
- 6.**Individual Household Electric Power Consumption** | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption) | Medições de alta frequência de consumo residencial, tensão, corrente e submedições por circuito. |
+ 6.    **Individual Household Electric Power Consumption** | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption) | Medições de alta frequência de consumo residencial, tensão, corrente e submedições por circuito. | obs: A mostra 6 não foi possivel carregar aqui no github como csv, por conta do tamanho...
 
 
 
