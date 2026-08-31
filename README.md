@@ -33,12 +33,17 @@ O notebook está dividido em células identificadas por títulos em Markdown par
 6. **Interpretação e análise técnica** contextualizada dos resultados.
 
 # Desafio Extra
+Este relatório apresenta a análise exploratória e descritiva do comportamento da carga de energia elétrica na Área SP (São Paulo), cobrindo o período de 01/08/2025 a 07/08/2025. Os dados analisados foram consumidos diretamente da API pública de Carga Verificada do Operador Nacional do Sistema Elétrico (ONS).
 
 ## Visão Geral do Projeto
-Este projeto realiza uma análise exploratória e descritiva do comportamento da demanda de carga elétrica na **Área SP (São Paulo)**, utilizando dados oficiais consumidos diretamente da API pública de Carga Verificada do **Operador Nacional do Sistema Elétrico (ONS)**.
+Objetivos Principais:
+- *Mapeamento do Padrão Operacional*: Mapear os indicadores fundamentais (carga média, mínima, máxima e mediana) do sistema no período.
+- *Caracterização de Picos de Demanda*: Identificar e quantificar os registros que superaram o limiar de alta demanda (20.866,78 MW), isolando o momento de maior solicitação da rede.
+- *Avaliação por Critérios Comparativos*: Confrontar o regime de alta demanda com métricas secundárias de operação (registros acima da carga média global de 17.870,83 MW).
+- *Suporte ao Planejamento*: Fornecer insumos descritivos para a gestão e planejamento de curto prazo do Sistema Interligado Nacional (SIN).
 
-O objetivo é mapear o padrão de consumo, identificar os momentos de alta demanda (picos) e fornecer insumos para o planejamento e operação do Sistema Interligado Nacional (SIN).
-
+Diretriz Metodológica Rígida:
+Seguindo os critérios de auditoria técnica do setor elétrico, o relatório fundamenta-se EXCLUSIVAMENTE nos dados observados no conjunto retornado. Variações operacionais e momentos de pico são tratados puramente sob a ótica descritiva; hipóteses externas (como variações climáticas, temperatura ou dinâmicas industriais) não são apresentadas como fatos, uma vez que não constam na base de dados de Carga Verificada fornecida.
 
 
 ## Resumo Executivo dos Dados
